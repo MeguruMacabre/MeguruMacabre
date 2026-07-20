@@ -1,6 +1,6 @@
 <div align="center">
 
-# Meguru Macabre 🦇
+# 🦇 Meguru Macabre 🦇
 **Learning. Building. Releasing.**  
 
 </div>
